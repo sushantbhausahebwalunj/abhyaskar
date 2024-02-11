@@ -1,0 +1,19 @@
+.circle {
+    width: 150px;
+    height: 130px;
+    /* margin-left: -10px; */
+    
+    margin-top: 20px;
+    border-radius: 50%;
+    background-color: #606a83;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .circle p {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
